@@ -64,8 +64,3 @@ The Arduino Uno Autopowering System is a project that utilizes an Arduino Uno mi
 ## Contributing
 
 Contributions to the Arduino Uno Autopowering System project are welcome! If you have any ideas, suggestions, or improvements, please feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
