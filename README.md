@@ -2,7 +2,7 @@
 
 🌱 This project utilizes an Arduino Uno microcontroller to automate the powering of a device based on soil moisture levels. The system can be used for applications such as automated plant watering, where the device (e.g., a water pump) is turned on or off based on the soil moisture readings.
 
-![Schematic](schematic.png)
+![Schematic](Schematic.png)
 
 ## Features
 
